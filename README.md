@@ -1,4 +1,4 @@
-- Hi, my name is MungaiMichael, a 20 year old college student.
+- Hi, my name is Michael Mungai, a 20 year old college student.
 - I'm into web development, specifically front-end.💻
 - Currently trying to get a good grasp on React.😅
 
