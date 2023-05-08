@@ -1,5 +1,4 @@
 - Hi, my name is Michael Mungai, a 20 year old college student.
-- I'm into web development, love front end development but I aspire to be a fullstack developer
 
 
 <!---
